@@ -1,0 +1,143 @@
+Country or Territory Name	City Name	SDG Sub-Region	SDG Region	Average share of green area in city/urban area 1990 (%)	Average share of green area in city/ urban area 2000 (%)	Average share of green area in city/ urban area 2010 (%)	Average share of green area in city/ urban area 2020 (%)	Green area per capita 1990 (m2/person)	Green area per capita 2000 (m2/person)	Green area per capita 2010 (m2/person)	Green area per capita 2020 (m2/person)
+Afghanistan	Kabul	Southern Asia	Central and Southern Asia	 5.49 	 5.80 	 3.90 	 3.51 	 7.75 	 5.27 	 2.59 	 1.71 
+Algeria	Qacentina	Northern Africa	Western Asia and Northern Africa	 2.62 	 2.81 	 3.09 	 4.12 	 2.81 	 2.94 	 3.58 	 5.18 
+Angola	Huambo	Middle Africa	Sub-Saharan Africa	 8.02 	 8.14 	 7.76 	 7.12 	 13.39 	 11.60 	 11.83 	 11.38 
+Argentina	Buenos Aires	South America	Latin America and the Caribbean	 31.90 	 31.06 	 20.44 	 15.95 	 64.81 	 56.76 	 33.23 	 24.96 
+Armenia	Yerevan	Western Asia	Western Asia and Northern Africa	 16.71 	 11.99 	 11.23 	 12.26 	 35.45 	 27.70 	 27.27 	 31.66 
+Australia	Canberra	Australia and New Zealand	Australia and New Zealand	 15.02 	 14.93 	 12.65 	 12.76 	 129.57 	 110.73 	 85.12 	 78.49 
+Austria	Wien (Vienna)	Western Europe	Northern America and Europe	 30.30 	 29.25 	 26.30 	 30.74 	 75.31 	 71.39 	 58.72 	 60.44 
+Azerbaijan	Baku	Western Asia	Western Asia and Northern Africa	 4.25 	 2.79 	 1.91 	 1.97 	 9.78 	 6.30 	 3.90 	 3.71 
+Bahrain	Al-Manamah (Manama)	Western Asia	Western Asia and Northern Africa	 5.86 	 7.60 	 4.45 	 4.82 	 35.07 	 32.70 	 11.27 	 10.45 
+Bangladesh	Dhaka	Southern Asia	Central and Southern Asia	 20.20 	 17.97 	 13.08 	 5.09 	 15.83 	 9.37 	 4.87 	 1.39 
+Belarus	Minsk	Eastern Europe	Northern America and Europe	 40.58 	 30.88 	 27.87 	 16.57 	 77.27 	 56.24 	 47.41 	 25.28 
+Belgium	Antwerpen	Western Europe	Northern America and Europe	 12.23 	 14.71 	 19.52 	 17.96 	 39.67 	 46.24 	 58.47 	 51.59 
+Belize	Belmopan	Central America	Latin America and the Caribbean	 78.85 	 53.32 	 41.93 	 41.21 	" 1,764.94 "	 576.26 	 275.77 	 218.09 
+Benin	Parakou	Western Africa	Sub-Saharan Africa	 8.08 	 8.94 	 8.52 	 7.56 	 60.44 	 47.89 	 30.38 	 17.54 
+Bolivia (Plurinational State of)	La Paz	South America	Latin America and the Caribbean	 1.36 	 1.31 	 1.62 	 1.21 	 3.29 	 2.52 	 2.74 	 1.79 
+Bosnia and Herzegovina	Sarajevo	Southern Europe	Northern America and Europe	 23.45 	 27.07 	 28.74 	 29.07 	 61.27 	 76.49 	 89.22 	 112.39 
+Botswana	Gaborone	Southern Africa	Sub-Saharan Africa	 0.85 	 1.38 	 0.81 	 1.15 	 11.95 	 12.55 	 5.74 	 6.37 
+Brazil	Brasília	South America	Latin America and the Caribbean	 6.14 	 8.40 	 6.34 	 8.80 	 22.89 	 19.50 	 11.85 	 13.39 
+Bulgaria	Sofia	Eastern Europe	Northern America and Europe	 7.00 	 10.66 	 13.23 	 17.87 	 13.92 	 22.39 	 25.95 	 33.12 
+Burkina Faso	Ouagadougou	Western Africa	Sub-Saharan Africa	 3.28 	 0.66 	 1.13 	 1.16 	 32.36 	 4.01 	 3.84 	 2.52 
+Cambodia	Phnum Pénh (Phnom Penh)	South-eastern Asia	Eastern and South-eastern Asia	 27.48 	 24.78 	 28.30 	 18.60 	 138.30 	 67.91 	 56.65 	 28.61 
+Canada	Ottawa-Gatineau	Northern America	Northern America and Europe	 23.74 	 22.12 	 21.27 	 21.70 	 113.62 	 95.73 	 80.78 	 73.32 
+Central African Republic	Bangui	Middle Africa	Sub-Saharan Africa	 53.01 	 51.44 	 41.83 	 28.18 	 136.62 	 104.67 	 67.33 	 37.82 
+Chad	N'Djaména	Middle Africa	Sub-Saharan Africa	 2.09 	 1.29 	 1.73 	 1.61 	 11.37 	 4.92 	 4.61 	 3.03 
+Chile	Santiago	South America	Latin America and the Caribbean	 14.95 	 7.56 	 4.57 	 5.49 	 26.53 	 10.97 	 5.93 	 6.46 
+China	Beijing	Eastern Asia	Eastern and South-eastern Asia	 10.53 	 16.18 	 15.95 	 18.11 	 53.26 	 60.58 	 42.40 	 41.60 
+Colombia	Bogotá	South America	Latin America and the Caribbean	 25.58 	 19.35 	 16.61 	 12.52 	 23.34 	 13.88 	 9.49 	 5.77 
+Costa Rica	San José	Central America	Latin America and the Caribbean	 51.63 	 46.81 	 34.63 	 24.54 	 199.64 	 131.31 	 86.61 	 53.85 
+Côte d’Ivoire	Yamoussoukro	Western Africa	Sub-Saharan Africa	 14.95 	 17.06 	 28.48 	 24.55 	 45.26 	 36.99 	 50.79 	 38.28 
+Croatia	Zagreb	Southern Europe	Northern America and Europe	 23.80 	 24.94 	 22.81 	 30.71 	 63.16 	 67.65 	 61.41 	 84.68 
+Cuba	Camaguey	Caribbean	Latin America and the Caribbean	 6.08 	 6.67 	 7.07 	 10.43 	 9.73 	 10.25 	 10.69 	 15.68 
+Cyprus	Lefkosía (Nicosia)	Western Asia	Western Asia and Northern Africa	 1.29 	 1.54 	 1.69 	 3.30 	 6.97 	 7.12 	 6.82 	 11.93 
+Czechia	Praha (Prague)	Eastern Europe	Northern America and Europe	 16.31 	 18.62 	 21.79 	 21.45 	 40.70 	 48.20 	 52.11 	 48.32 
+Democratic People's Republic of Korea	P'yongyang	Eastern Asia	Eastern and South-eastern Asia	 4.39 	 4.54 	 4.57 	 3.53 	 2.06 	 2.13 	 2.19 	 1.65 
+Democratic Republic of the Congo	Kisangani	Middle Africa	Sub-Saharan Africa	 60.29 	 58.93 	 35.59 	 18.18 	 133.14 	 97.22 	 44.45 	 17.08 
+Denmark	København (Copenhagen)	Northern Europe	Northern America and Europe	 23.09 	 24.99 	 20.89 	 22.29 	 78.91 	 81.96 	 62.27 	 58.76 
+Djibouti	Djibouti	Eastern Africa	Sub-Saharan Africa	 1.91 	 1.25 	 0.60 	 1.21 	 3.20 	 1.63 	 0.67 	 1.03 
+Dominican Republic	Santo Domingo	Caribbean	Latin America and the Caribbean	 67.09 	 47.06 	 36.27 	 24.11 	 128.70 	 69.65 	 43.71 	 24.40 
+Egypt	Al-Qahirah (Cairo)	Northern Africa	Western Asia and Northern Africa	 19.36 	 18.28 	 15.63 	 11.44 	 31.32 	 22.74 	 16.08 	 9.58 
+El Salvador	Usulután	Central America	Latin America and the Caribbean	 15.47 	 17.09 	 23.69 	 26.36 	 45.99 	 44.69 	 61.48 	 69.65 
+Eritrea	Asmara	Eastern Africa	Sub-Saharan Africa	 1.07 	 4.01 	 6.09 	 5.79 	 1.82 	 6.11 	 7.49 	 10.23 
+Eswatini	Mbabane	Southern Africa	Sub-Saharan Africa	 20.05 	 23.69 	 19.70 	 19.46 	 138.83 	 120.09 	 90.80 	 99.29 
+Ethiopia	Dire Dawa	Eastern Africa	Sub-Saharan Africa	 7.03 	 6.01 	 5.11 	 9.67 	 10.04 	 6.15 	 4.09 	 6.49 
+Finland	Tampere	Northern Europe	Northern America and Europe	 15.44 	 16.98 	 14.69 	 17.03 	 65.63 	 60.57 	 47.67 	 53.90 
+France	Marseille	Western Europe	Northern America and Europe	 11.01 	 14.88 	 18.19 	 18.25 	 24.08 	 31.44 	 36.45 	 36.64 
+Germany	München (Munich)	Western Europe	Northern America and Europe	 36.86 	 29.92 	 23.64 	 29.68 	 87.41 	 70.65 	 49.94 	 54.10 
+Ghana	Tamale	Western Africa	Sub-Saharan Africa	 12.65 	 6.00 	 2.85 	 3.11 	 85.90 	 30.90 	 11.69 	 7.04 
+Greece	Athínai (Athens)	Southern Europe	Northern America and Europe	 1.65 	 1.77 	 2.63 	 2.86 	 1.82 	 1.90 	 2.85 	 3.24 
+Guatemala	San Juan Sacatepéquez	Central America	Latin America and the Caribbean	 57.37 	 55.26 	 48.71 	 34.44 	 102.86 	 91.85 	 72.16 	 48.23 
+Guinea	Conakry	Western Africa	Sub-Saharan Africa	 49.01 	 25.08 	 25.30 	 8.21 	 154.36 	 56.86 	 42.38 	 10.34 
+Guinea-Bissau	Bissau	Western Africa	Sub-Saharan Africa	 78.25 	 42.10 	 29.95 	 14.78 	 287.39 	 106.45 	 52.57 	 18.76 
+Honduras	San Pedro Sula	Central America	Latin America and the Caribbean	 41.40 	 32.11 	 26.46 	 16.58 	 109.42 	 62.06 	 40.63 	 18.77 
+Hungary	Miskolc	Eastern Europe	Northern America and Europe	 28.55 	 28.97 	 29.54 	 26.14 	 73.51 	 80.01 	 89.87 	 89.76 
+India	Delhi	Southern Asia	Central and Southern Asia	 8.09 	 7.01 	 4.52 	 5.32 	 13.37 	 7.67 	 3.88 	 3.68 
+Indonesia	Medan	South-eastern Asia	Eastern and South-eastern Asia	 78.66 	 68.16 	 53.95 	 41.96 	 136.18 	 104.18 	 74.01 	 53.18 
+Iran (Islamic Republic of)	Tehran	Southern Asia	Central and Southern Asia	 5.67 	 3.65 	 3.59 	 4.62 	 7.59 	 4.39 	 3.88 	 4.16 
+Iraq	Baghdad	Western Asia	Western Asia and Northern Africa	 2.68 	 3.21 	 2.56 	 1.97 	 4.99 	 4.71 	 3.40 	 2.05 
+Ireland	Dublin	Northern Europe	Northern America and Europe	 32.13 	 27.12 	 22.86 	 24.95 	 102.24 	 81.59 	 62.47 	 61.50 
+Israel	Tel Aviv-Yafo (Tel Aviv-Jaffa)	Western Asia	Western Asia and Northern Africa	 6.41 	 3.98 	 1.78 	 2.76 	 20.15 	 8.37 	 3.19 	 4.00 
+Italy	Roma (Rome)	Southern Europe	Northern America and Europe	 16.81 	 13.88 	 14.00 	 23.87 	 32.80 	 27.54 	 27.13 	 44.02 
+Japan	Tokyo	Eastern Asia	Eastern and South-eastern Asia	 8.54 	 8.61 	 7.65 	 9.03 	 13.93 	 13.39 	 11.16 	 12.84 
+Jordan	Amm?n (Amman)	Western Asia	Western Asia and Northern Africa	 2.26 	 2.25 	 3.10 	 4.86 	 6.23 	 4.44 	 4.41 	 4.01 
+Kazakhstan	Aqto?be (Aktobe)	Central Asia	Central and Southern Asia	 4.66 	 4.44 	 4.11 	 3.87 	 22.46 	 20.27 	 13.52 	 10.27 
+Kenya	Nairobi	Eastern Africa	Sub-Saharan Africa	 12.25 	 5.02 	 2.84 	 4.20 	 38.29 	 9.76 	 3.91 	 4.05 
+Kuwait	Al-Kuwayt (Kuwait City)	Western Asia	Western Asia and Northern Africa	 0.68 	 0.65 	 0.39 	 0.87 	 1.66 	 1.53 	 0.59 	 0.88 
+Kyrgyzstan	Bishkek	Central Asia	Central and Southern Asia	 12.05 	 13.98 	 6.86 	 9.35 	 39.69 	 38.63 	 16.56 	 18.53 
+Latvia	Riga	Northern Europe	Northern America and Europe	 31.14 	 18.36 	 22.04 	 15.05 	 37.03 	 26.75 	 37.67 	 28.34 
+Lebanon	?ar?bulus (Tripoli)	Western Asia	Western Asia and Northern Africa	 10.77 	 7.41 	 8.11 	 5.29 	 14.37 	 7.58 	 7.86 	 4.81 
+Liberia	Monrovia	Western Africa	Sub-Saharan Africa	 43.61 	 40.79 	 29.19 	 26.21 	 131.58 	 140.83 	 76.04 	 48.03 
+Libya	Tarabulus (Tripoli)	Northern Africa	Western Asia and Northern Africa	 10.08 	 9.24 	 3.37 	 2.26 	 72.34 	 52.33 	 16.16 	 10.64 
+Lithuania	Vilnius	Northern Europe	Northern America and Europe	 32.62 	 29.16 	 29.61 	 22.85 	 101.48 	 95.28 	 101.85 	 76.59 
+Luxembourg	Luxembourg (Lëtzebuerg)	Western Europe	Northern America and Europe	 25.85 	 29.52 	 22.12 	 22.30 	 113.22 	 118.17 	 76.99 	 57.09 
+Madagascar	Antananarivo	Eastern Africa	Sub-Saharan Africa	 41.86 	 33.44 	 25.61 	 21.89 	 99.61 	 56.38 	 29.80 	 15.46 
+Malawi	Mzuzu	Eastern Africa	Sub-Saharan Africa	 10.81 	 7.92 	 6.73 	 5.17 	 78.56 	 45.35 	 26.08 	 13.70 
+Malaysia	Kuala Lumpur	South-eastern Asia	Eastern and South-eastern Asia	 53.08 	 26.33 	 16.25 	 20.43 	 262.43 	 71.28 	 32.66 	 31.04 
+Mali	Bamako	Western Africa	Sub-Saharan Africa	 10.40 	 3.49 	 2.30 	 2.15 	 48.29 	 10.60 	 4.09 	 2.60 
+Malta	Valletta	Southern Europe	Northern America and Europe	 0.49 	 0.60 	 1.65 	 2.35 	 1.15 	 1.32 	 3.63 	 4.40 
+Mauritania	Nouakchott	Western Africa	Sub-Saharan Africa	 0.14 	 0.37 	 0.57 	 0.76 	 0.66 	 1.31 	 1.37 	 1.24 
+Mexico	Villahermosa	Central America	Latin America and the Caribbean	 49.36 	 42.26 	 29.95 	 23.14 	 169.73 	 102.72 	 57.21 	 40.34 
+Morocco	Rabat	Northern Africa	Western Asia and Northern Africa	 4.79 	 5.57 	 5.09 	 4.25 	 4.72 	 4.44 	 3.75 	 2.92 
+Mozambique	Maputo	Eastern Africa	Sub-Saharan Africa	 27.75 	 14.10 	 14.14 	 5.34 	 132.60 	 47.93 	 36.40 	 9.79 
+Myanmar	Sittwe (Akyab)	South-eastern Asia	Eastern and South-eastern Asia	 32.13 	 35.81 	 29.43 	 22.12 	 41.90 	 37.02 	 31.52 	 29.17 
+Namibia	Windhoek	Southern Africa	Sub-Saharan Africa	 2.28 	 2.29 	 4.05 	 4.57 	 15.87 	 10.01 	 13.14 	 12.17 
+Nepal	Bharatpur	Southern Asia	Central and Southern Asia	 3.93 	 3.22 	 2.63 	 2.44 	 22.38 	 13.53 	 9.39 	 8.63 
+Netherlands (Kingdom of the)	Amsterdam	Western Europe	Northern America and Europe	 15.86 	 13.47 	 11.88 	 11.97 	 44.45 	 35.24 	 29.48 	 27.35 
+New Zealand	Auckland	Australia and New Zealand	Australia and New Zealand	 34.42 	 24.38 	 21.79 	 17.40 	 220.14 	 123.49 	 92.83 	 58.24 
+Nicaragua	Estelí	Central America	Latin America and the Caribbean	 13.93 	 13.46 	 15.93 	 16.04 	 30.22 	 23.57 	 25.00 	 24.55 
+Niger	Niamey	Western Africa	Sub-Saharan Africa	 2.60 	 3.56 	 2.18 	 2.76 	 10.37 	 9.13 	 4.04 	 3.90 
+Nigeria	Aba	Western Africa	Sub-Saharan Africa	 71.00 	 66.08 	 39.76 	 32.26 	 189.50 	 140.63 	 67.14 	 43.37 
+Oman	Salahah (Salalah)	Western Asia	Western Asia and Northern Africa	 3.35 	 3.98 	 3.86 	 4.52 	 61.99 	 28.39 	 23.83 	 12.19 
+Pakistan	Gujranwala	Southern Asia	Central and Southern Asia	 59.95 	 49.93 	 38.90 	 26.62 	 69.29 	 42.16 	 25.86 	 15.58 
+Panama	Ciudad de Panamá (Panama City)	Central America	Latin America and the Caribbean	 40.70 	 24.42 	 24.10 	 15.09 	 146.00 	 61.13 	 48.70 	 24.36 
+Paraguay	Asunción	South America	Latin America and the Caribbean	 70.24 	 52.72 	 52.57 	 40.91 	 341.71 	 199.87 	 170.59 	 154.74 
+Peru	Iquitos	South America	Latin America and the Caribbean	 36.81 	 29.22 	 19.48 	 16.97 	 280.26 	 181.59 	 105.34 	 82.38 
+Philippines	Manila	South-eastern Asia	Eastern and South-eastern Asia	 15.40 	 18.72 	 27.72 	 44.71 	 24.44 	 23.70 	 29.66 	 41.30 
+Poland	Kraków (Cracow)	Eastern Europe	Northern America and Europe	 31.85 	 31.64 	 30.40 	 28.39 	 71.24 	 69.17 	 67.88 	 63.95 
+Portugal	Lisboa (Lisbon)	Southern Europe	Northern America and Europe	 10.80 	 18.36 	 25.61 	 25.49 	 23.70 	 38.63 	 52.11 	 49.21 
+Qatar	Ad-Dawhah (Doha)	Western Asia	Western Asia and Northern Africa	 0.84 	 0.94 	 1.30 	 3.31 	 14.75 	 11.14 	 5.60 	 8.87 
+Republic of Korea	Jeju	Eastern Asia	Eastern and South-eastern Asia	 34.12 	 31.44 	 29.48 	 29.26 	 105.95 	 98.95 	 108.25 	 145.41 
+Republic of Moldova	Chi?in?u	Eastern Europe	Northern America and Europe	 10.73 	 11.30 	 12.11 	 13.02 	 23.73 	 25.43 	 31.11 	 38.70 
+Russian Federation	Moskva (Moscow)	Eastern Europe	Northern America and Europe	 41.78 	 32.82 	 30.95 	 21.38 	 64.30 	 46.48 	 38.93 	 24.14 
+San Marino	San Marino	Southern Europe	Northern America and Europe	 3.99 	 4.38 	 6.20 	 10.60 	 39.62 	 36.84 	 43.20 	 68.97 
+Saudi Arabia	Ar-Riyadh (Riyadh)	Western Asia	Western Asia and Northern Africa	 0.40 	 0.58 	 0.31 	 0.71 	 1.73 	 1.64 	 0.61 	 1.00 
+Senegal	Dakar	Western Africa	Sub-Saharan Africa	 8.11 	 4.16 	 4.89 	 4.80 	 10.27 	 3.95 	 3.57 	 2.85 
+Serbia	Beograd (Belgrade)	Southern Europe	Northern America and Europe	 12.90 	 9.46 	 13.47 	 18.25 	 29.91 	 19.85 	 26.65 	 33.33 
+Sierra Leone	Kenema	Western Africa	Sub-Saharan Africa	 77.95 	 48.39 	 35.81 	 13.63 	 231.51 	 129.94 	 63.19 	 20.12 
+Slovakia	Bratislava	Eastern Europe	Northern America and Europe	 16.53 	 21.46 	 27.90 	 29.94 	 42.69 	 58.43 	 82.51 	 90.72 
+Slovenia	Ljubljana	Southern Europe	Northern America and Europe	 19.77 	 17.54 	 16.69 	 15.56 	 63.61 	 57.18 	 52.05 	 44.91 
+South Africa	Cape Town	Southern Africa	Sub-Saharan Africa	 3.42 	 1.61 	 1.40 	 3.69 	 11.26 	 4.28 	 3.00 	 6.20 
+Spain	Santander	Southern Europe	Northern America and Europe	 48.61 	 41.99 	 32.51 	 33.53 	 99.41 	 85.78 	 64.10 	 67.83 
+State of Palestine	N?bulus (Nablus)	Western Asia	Western Asia and Northern Africa	 1.79 	 1.60 	 1.60 	 1.41 	 6.41 	 4.11 	 3.48 	 2.45 
+Sudan	Wad Medani	Northern Africa	Western Asia and Northern Africa	 5.26 	 3.84 	 2.50 	 1.19 	 11.47 	 7.24 	 3.93 	 1.58 
+Sweden	Stockholm	Northern Europe	Northern America and Europe	 30.58 	 26.57 	 22.41 	 21.35 	 116.02 	 87.69 	 65.55 	 51.24 
+Switzerland	Basel	Western Europe	Northern America and Europe	 15.20 	 15.87 	 16.36 	 16.15 	 37.19 	 40.21 	 40.84 	 39.85 
+Syrian Arab Republic	Dimashq (Damascus)	Western Asia	Western Asia and Northern Africa	 17.50 	 9.25 	 6.52 	 3.65 	 29.62 	 12.88 	 7.07 	 3.86 
+Tajikistan	Dushanbe	Central Asia	Central and Southern Asia	 29.00 	 21.99 	 10.34 	 12.54 	 107.27 	 76.31 	 27.18 	 25.31 
+Thailand	Krung Thep (Bangkok)	South-eastern Asia	Eastern and South-eastern Asia	 41.38 	 37.03 	 23.55 	 16.84 	 165.54 	 115.55 	 51.11 	 27.99 
+Timor-Leste	Dili	South-eastern Asia	Eastern and South-eastern Asia	 13.19 	 13.03 	 10.38 	 8.10 	 34.13 	 28.52 	 15.69 	 7.97 
+Tunisia	Tunis	Northern Africa	Western Asia and Northern Africa	 6.41 	 3.11 	 4.15 	 3.47 	 17.56 	 7.01 	 8.11 	 5.61 
+Türkiye	Terme	Western Asia	Western Asia and Northern Africa	 60.31 	 41.05 	 35.11 	 27.72 	 67.45 	 38.07 	 33.31 	 23.92 
+Turkmenistan	Ashgabat	Central Asia	Central and Southern Asia	 5.05 	 1.51 	 3.04 	 3.02 	 14.02 	 3.08 	 4.89 	 3.78 
+Uganda	Gulu	Eastern Africa	Sub-Saharan Africa	 14.59 	 34.28 	 47.63 	 44.98 	 208.53 	 222.40 	 209.69 	 168.47 
+Ukraine	Kyiv (Kiev)	Eastern Europe	Northern America and Europe	 26.60 	 20.21 	 12.52 	 15.26 	 42.92 	 32.75 	 19.27 	 22.30 
+United Arab Emirates	Dubayy (Dubai)	Western Asia	Western Asia and Northern Africa	 0.38 	 0.88 	 1.12 	 3.03 	 4.05 	 4.80 	 3.14 	 5.81 
+United Kingdom of Great Britain and Northern Ireland	London	Northern Europe	Northern America and Europe	 36.17 	 33.36 	 24.39 	 26.94 	 77.28 	 66.84 	 43.71 	 41.98 
+United Republic of Tanzania	Arusha	Eastern Africa	Sub-Saharan Africa	 33.84 	 31.13 	 24.58 	 26.46 	 310.94 	 159.33 	 85.53 	 74.12 
+United States of America	Raleigh	Northern America	Northern America and Europe	 45.02 	 40.96 	 43.04 	 42.10 	" 1,017.35 "	 586.90 	 427.84 	 298.67 
+Uruguay	Ciudad De La Costa	South America	Latin America and the Caribbean	 37.46 	 33.62 	 30.23 	 32.02 	 320.45 	 230.73 	 172.34 	 157.53 
+Uzbekistan	Andizhan	Central Asia	Central and Southern Asia	 26.28 	 13.68 	 15.41 	 11.57 	 106.57 	 42.62 	 41.89 	 26.59 
+Venezuela (Bolivarian Republic of)	Altagracia de Orituco	South America	Latin America and the Caribbean	 6.30 	 5.34 	 4.89 	 4.04 	 20.98 	 12.88 	 10.45 	 8.86 
+Viet Nam	Thành Pho Ho Chí Minh (Ho Chi Minh City)	South-eastern Asia	Eastern and South-eastern Asia	 33.55 	 51.85 	 45.64 	 23.36 	 115.80 	 121.57 	 73.79 	 27.79 
+Yemen	Adan (Aden)	Western Asia	Western Asia and Northern Africa	 1.25 	 0.74 	 0.32 	 0.48 	 3.34 	 1.33 	 0.41 	 0.42 
+Zambia	Chingola	Eastern Africa	Sub-Saharan Africa	 5.16 	 3.20 	 4.15 	 2.07 	 22.56 	 10.74 	 10.95 	 4.36 
+Zimbabwe	Bulawayo	Eastern Africa	Sub-Saharan Africa	 0.98 	 1.28 	 1.98 	 2.55 	 4.75 	 5.37 	 8.53 	 12.78 
+Northern America and Europe			Northern America and Europe	19.48	19.35	19.11	19.86	113.20	97.69	84.95	81.44
+Eastern and South-eastern Asia			Eastern and South-eastern Asia	32.46	28.06	22.07	18.62	84.74	63.18	42.05	33.60
+Australia and New Zealand			Australia and New Zealand	16.42	16.16	16.01	15.78	81.03	64.90	59.27	47.57
+Latin America and the Caribbean			Latin America and the Caribbean	24.77	19.69	16.64	14.96	58.29	38.53	28.95	23.66
+Global Average			Global Average	19.45	17.01	14.96	13.86	66.86	49.27	36.24	30.59
+Central and Southern Asia			Central and Southern Asia	15.06	12.67	10.34	9.34	24.28	15.64	9.87	7.70
+Sub-Saharan Africa			Sub-Saharan Africa	18.72	14.99	12.30	8.76	62.12	35.64	23.09	14.43
+Western Asia and Northern Africa			Western Asia and Northern Africa	11.22	9.22	7.83	6.86	16.53	11.44	7.58	6.43
